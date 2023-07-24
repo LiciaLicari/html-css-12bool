@@ -1,0 +1,9 @@
+.col {
+    max-width: 1rem;
+    aspect-ratio: 1;
+    border: 0.2px solid grey;
+}
+
+.row {
+    justify-content: center;
+}
