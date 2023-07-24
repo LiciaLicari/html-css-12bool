@@ -14,6 +14,7 @@
 
 [class*="col-offset-"]{
     background-color: transparent;
+    padding: 0;
 }
 
 
