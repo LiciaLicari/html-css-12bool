@@ -1,9 +1,21 @@
 .col {
     max-width: 1rem;
     aspect-ratio: 1;
-    border: 0.2px solid grey;
+    border: 0.2px solid rgba(0, 0, 0, 0.442);
 }
 
 .row {
     justify-content: center;
+}
+
+.lilac{
+    background-color: violet;
+}
+
+.corn {
+    background-color: cornflowerblue;
+}
+
+.black {
+    background-color: black;
 }
